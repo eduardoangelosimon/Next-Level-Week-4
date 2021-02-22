@@ -1,2 +1,1 @@
-# Next-Level-Week-4 - Trilha ReactJS
-Front-end
+# Next-Level-Week-4 - Trilha ReactJS Front-End
