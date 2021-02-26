@@ -17,6 +17,6 @@ Para fazer o deploy:
 - <a href="https://vercel.com/docs">Vercel</a> <br>
 
 #  Link para conferir o projeto
-<a href="https://moveit-silk-tau.vercel.app/">Move.it</a>
+- <a href="https://moveit-silk-tau.vercel.app/">Move.it</a>
 ________________________________________________________________________________________________________________________________________________________________________________
 <p align="center">Desenvolvido com 🧡 Eduardo Angelo Simon</p>
