@@ -6,17 +6,17 @@ Esse é um projeto desenvolvido e ministrado pela Rocketseat durante a Next Leve
 # 🚀 Tecnologias
 Estas são as tecnologias utilizadas no desenvolvimento do projeto:
 
-- <a href="https://www.javascript.com/">JavaScript</a>
-- <a href="https://nextjs.org/">NextJS</a> <br>
-- <a href="https://pt-br.reactjs.org/docs/getting-started.html">ReactJS</a> <br>
-- <a href="https://www.typescriptlang.org/docs/">TypeScript</a> <br>
-- <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML</a> <br>
-- <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a> <br>
+- <a href="https://www.javascript.com/" target="_blank">JavaScript</a>
+- <a href="https://nextjs.org/" target="_blank">NextJS</a> <br>
+- <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank">ReactJS</a> <br>
+- <a href="https://www.typescriptlang.org/docs/" target="_blank">TypeScript</a> <br>
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">HTML</a> <br>
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">CSS</a> <br>
 
 Para fazer o deploy:
 - <a href="https://vercel.com/docs">Vercel</a> <br>
 
 #  Link para conferir o projeto
-- <a href="https://moveit-silk-tau.vercel.app/">Move.it</a>
+- <a href="https://moveit-silk-tau.vercel.app/" target="_blank">Move.it</a>
 ________________________________________________________________________________________________________________________________________________________________________________
 <p align="center">Desenvolvido com 🧡 Eduardo Angelo Simon</p>
