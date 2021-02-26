@@ -6,7 +6,6 @@ Esse é um projeto desenvolvido e ministrado pela Rocketseat durante a Next Leve
 # 🚀 Tecnologias
 Estas são as tecnologias utilizadas no desenvolvimento do projeto:
 
-- <a href="https://www.javascript.com/" target="_blank">JavaScript</a>
 - <a href="https://nextjs.org/" target="_blank">NextJS</a> <br>
 - <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank">ReactJS</a> <br>
 - <a href="https://www.typescriptlang.org/docs/" target="_blank">TypeScript</a> <br>
