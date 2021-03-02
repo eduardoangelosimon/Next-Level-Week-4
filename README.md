@@ -15,7 +15,7 @@ Estas são as tecnologias utilizadas no desenvolvimento do projeto:
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">CSS</a> <br>
 
 Para fazer o deploy:
-- <a href="https://vercel.com/docs">Vercel</a> <br>
+- <a href=https://vercel.com/>Vercel</a> <br>
 
 #  Link para conferir o projeto
 - <a href="https://next-level-week-4-move-it.vercel.app/" target="_blank">Move.it</a>
